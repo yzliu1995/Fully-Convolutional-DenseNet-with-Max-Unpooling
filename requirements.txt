@@ -1,0 +1,9 @@
+albumentations==0.1.12
+matplotlib==3.2.2
+mycolorpy==1.5.1
+numpy==1.19.5
+opencv_contrib_python==4.1.2.30
+pandas==1.1.5
+seaborn==0.11.2
+torch==1.10.0+cu111
+torchvision==0.11.1+cu111
